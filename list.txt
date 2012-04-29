@@ -1,0 +1,6 @@
+#DO NOT WRITE UNTIL THE LIST BEGINS
+#Instructions: Load an .Ogg with your name on it (media.io to convert your MP3s) 
+#into the folder, and change this file to the time you want to start your song,and restart the python script
+
+#Key ID		 	Name		Time to begin song(in seconds)
+0400B0847848,Example,0.0
